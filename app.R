@@ -86,7 +86,7 @@ ui <- secure_app(
   head_auth = tags$script(inactivity),
   
   dashboardPage(
-    header  <- dashboardHeader(title = "PRF App",
+    header  <- dashboardHeader(title = "PRF App XAXAAA",
                                dropdownMenu(type = "messages", icon=icon("circle-info", class = 'fa-solid', lib = "font-awesome"), badgeStatus = NULL,
                                             headerText='',
                                             messageItem(
