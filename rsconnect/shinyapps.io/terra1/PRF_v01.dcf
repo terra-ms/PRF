@@ -1,0 +1,12 @@
+name: PRF_v01
+title: PRF_v01
+username: terra1
+account: terra1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12809996
+bundleId: 9139873
+url: https://terra1.shinyapps.io/PRF_v01/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
